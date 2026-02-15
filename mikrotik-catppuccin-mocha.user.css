@@ -294,7 +294,6 @@ input[type="checkbox"].switch:disabled {
 .terminal [style*="background-color:rgb(255, 255, 255)"],
 .terminal [style*="background-color:#fff"],
 .terminal [style*="background-color: #fff"] {
-  background-color: transparent !important;
   background: transparent !important;
 }
 
